@@ -1,0 +1,53 @@
+_repo: Kunnon-kansalaisia-b-Viisitoista-tarinaa_74766
+_version: 0.0.1
+alternative_title: A jó palócok. Finnish
+contributor:
+  translator:
+    agent_name: Vainio, Niilo E. (Niilo Engelbrekt)
+    aliases:
+    - Vainio, Niilo Engelbrekt
+    - Wainio, Niilo E.
+    birthdate: 1860
+    deathdate: 1931
+    gutenberg_agent_id: '57635'
+    url: http://www.gutenberg.org/2009/agents/57635
+    wikipedia: https://fi.wikipedia.org/wiki/Niilo_E._Wainio
+creator:
+  author:
+    agent_name: Mikszáth, Kálmán
+    aliases:
+    - Kálmán Mikszáth
+    - Mikszath, Kalman
+    - Mikszáth, Kálman
+    birthdate: 1847
+    deathdate: 1910
+    gutenberg_agent_id: '26008'
+    url: http://www.gutenberg.org/2009/agents/26008
+    wikipedia:
+    - https://en.wikipedia.org/wiki/K%C3%A1lm%C3%A1n_Miksz%C3%A1th
+    - https://hu.wikipedia.org/wiki/Mikszáth_Kálmán_(író)
+description: ''
+gutenberg_issued: '2024-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74766'
+language: fi
+pgterms:marc905: 20230716055356mikszth
+pgterms:marc906: '1888'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aPori :$bAdolf Allardt, $c1888.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hungarian fiction -- Translations into Finnish'
+- !lcsh 'Short stories, Hungarian -- Translations into Finnish'
+- !lcc 'PH'
+- GITenberg
+tableOfContents: Karitsa -- Annan velka -- Kahden tytön kauniista hiuksista -- Pikku
+  saappaat -- Elävänleski -- Tuo pakana suutari -- Ihme -- Paavon kosioretki -- Noita-akka
+  -- Neitsy Maria -- Kahden karjatalo romaani -- "Kuningattaren hame" -- Juho paran
+  hevoset -- Lapset -- Minne joutui Galluksen Leena?
+title: 'Kunnon kansalaisia : $b Viisitoista tarinaa'
+url: http://www.gutenberg.org/ebooks/74766
