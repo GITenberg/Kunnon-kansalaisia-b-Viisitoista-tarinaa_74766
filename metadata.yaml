@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '57635'
     url: http://www.gutenberg.org/2009/agents/57635
     wikipedia: https://fi.wikipedia.org/wiki/Niilo_E._Wainio
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Mikszáth, Kálmán
@@ -27,6 +30,8 @@ creator:
     - https://en.wikipedia.org/wiki/K%C3%A1lm%C3%A1n_Miksz%C3%A1th
     - https://hu.wikipedia.org/wiki/Mikszáth_Kálmán_(író)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74766#Kunnon-kansalaisia-b-Viisitoista-tarinaa
 gutenberg_issued: '2024-11-20'
 gutenberg_type: Text
 identifiers:
